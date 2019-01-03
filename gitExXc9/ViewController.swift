@@ -14,7 +14,7 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        print("some change done to NEW BRANCH")
+        print("some change done to NEW BRANCH — NOW merged with the MASTER")
     }
 
     override var representedObject: Any? {
